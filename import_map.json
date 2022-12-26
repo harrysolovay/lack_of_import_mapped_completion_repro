@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "capi/": "https://capi.dev/@v0.1.0-beta.22/"
+  }
+}
